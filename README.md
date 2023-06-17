@@ -1,2 +1,2 @@
 # RL_project
-To run : streamlit run app.py  
+To run : poetry run scripts/app.sh 

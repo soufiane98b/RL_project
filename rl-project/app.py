@@ -6,7 +6,7 @@ import app_func
 ############################# Creation Formulaire ####################################################
 
 # Configuration de la page
-st.title("Paramètres de la imulation")
+st.title("Paramètres de la simulation")
 col, cat, gps, nb_lignes, ratio, dist,nb_cluster,nb_arm = app_func.formulaire()
 button_clicked = st.button("Valider les paramètres de simulation")
 
